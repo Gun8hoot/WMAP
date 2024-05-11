@@ -14,7 +14,7 @@ or
 - ```pip3 install argparse && pip3 install scapy```
 
 ### Install module on Windows
-- `py -3 -m pip install argparse ` \
+- `py -3 -m pip install argparse ` 
 - `py -3 -m pip install scapy`
 
 ## How to use ?
