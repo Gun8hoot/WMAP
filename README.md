@@ -1,7 +1,7 @@
 # **WMAP**
 ---
 ## What is this script ?
-- WMAP is a NMAP like tool write in python 3
+- WMAP is a NMAP like tool write in python3
 - This script is a little slower because it scan all ports from 1 to 56535th port.
 
 ## Requirements
