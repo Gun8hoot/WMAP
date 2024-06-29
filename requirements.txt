@@ -1,2 +1,2 @@
-argparse
-scapy
+argparse==1.4.0
+scapy==2.5.0
