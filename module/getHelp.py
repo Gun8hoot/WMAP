@@ -1,7 +1,6 @@
 from module.color import color
 
-with open('./banner', 'r') as banner:
-    banner = banner.read()
+
 
 def getHelp() : 
     print("\n WMAP port scanner:")
